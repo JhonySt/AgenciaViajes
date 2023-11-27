@@ -1,0 +1,48 @@
+span{
+    color: #FA7436;
+}
+
+.bg1{
+    background-color: #F7F8FC;
+    padding: 80px;
+}
+
+.bg2{
+    background-color: #FEFCFB;
+}
+
+.bgcard{
+    background-color: #FFFFFF;
+}
+
+.star{
+    color: gold;
+}
+
+.descuento{
+    float: right;
+    color: red;
+    background-color: rgba(255, 0, 0, 0.1);
+}
+
+.precio{
+    float: right;
+    text-decoration: line-through;
+}
+
+.btn-naranja{
+    background-color: #FA7436;
+    color: white;
+}
+
+.btn-blanco{
+    background-color: white;
+    color: #FA7436;
+}
+
+.btn-borde{
+    background-color: white;
+    color: #FA7436;
+    border: solid 1px;
+    border-color: #FA7436;
+}
